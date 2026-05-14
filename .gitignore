@@ -1,0 +1,25 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# Ejecutables compilados
+*.exe
+
+# Logs y locks
+*.lock
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
