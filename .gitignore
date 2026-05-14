@@ -8,7 +8,7 @@ __pycache__/
 *.py[cod]
 *.pyo
 
-# PyInstaller
+# PyInstaller — generados por build.ps1, no necesarios en repo
 *.spec
 build/
 dist/
